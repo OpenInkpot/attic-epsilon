@@ -1,10 +1,14 @@
 Source: epsilon
-Section: libs
+Section: gui
 Priority: optional
-Maintainer: Falko Schmidt <falko@alphagemini.org>
+Maintainer: Alexander Kerner <lunohod@openinkpot.org>
 Build-Depends: cdbs, debhelper (>= 6), pkg-config, zlib1g-dev, libevas-dev, libecore-dev, libedje-dev, libpng12-dev
 Standards-Version: 3.7.3
 Homepage: http://www.enlightenment.org
+XCS-Cross-Host-Build-Depends: cdbs, debhelper (>= 5)
+XCS-Cross-Build-Depends: zlib1g-dev, libevas-dev, libecore-dev, libedje-dev, libpng12-dev
+XS-Vcs-Git: http://git.openinkpot.org/epsilion.git
+XS-Vcs-Browser: http://git.openinkpot.org/epsilon.git
 
 Package: libepsilon0-dev
 Section: libdevel

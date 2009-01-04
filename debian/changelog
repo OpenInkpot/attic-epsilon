@@ -1,3 +1,9 @@
+epsilon (0.3.0.012-20090103-1) unstable; urgency=low
+
+  * OI build
+
+ -- Alexander Kerner <lunohod@openinkpot.org>  Sun, 04 Jan 2009 01:28:36 +0100
+
 epsilon (0.3.0.012-2) unstable; urgency=low
 
   * a SVN release.
