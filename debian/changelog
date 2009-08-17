@@ -1,3 +1,9 @@
+epsilon (0.3.0.012-20090103-2+b2) asimov; urgency=low
+
+  * Rebuild due to EFL upgrade.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Tue, 18 Aug 2009 02:15:30 +0700
+
 epsilon (0.3.0.012-20090103-2+b1) asimov; urgency=low
 
   * Rebuild with new toolchain.
